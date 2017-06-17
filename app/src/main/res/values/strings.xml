@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Order App</string>
+    <string name="history">Order History</string>
+    <string name="about">About Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="rs">\u20B9</string>
+    <string name="spinner_title">Choose Location</string>
+    <string name="base_url">http://ec2-52-42-169-245.us-west-2.compute.amazonaws.com:3401/</string>
+    <string name="base_url_old">http://52.33.198.30:3401/menu/</string>
+</resources>

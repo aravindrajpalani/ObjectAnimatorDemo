@@ -1,0 +1,12 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <translate
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+
+        android:fromYScale="1.0"
+        android:toYScale=".6"
+
+
+        android:duration="100" />
+
+</set>
